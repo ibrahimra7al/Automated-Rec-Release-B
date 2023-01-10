@@ -1,16 +1,15 @@
 {
   "name": "automated-rec-release-b-1",
-  "version": "1.0.0",
+  "version": "1.0.8",
   "description": "",
   "main": "index.js",
   "scripts": {
-        "build": "echo built",
-
+    "build": "echo built",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "automated-rec-release-c": "1.0.0"
+    "automated-rec-release-c": "1.0.4"
   }
 }
