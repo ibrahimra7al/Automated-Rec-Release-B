@@ -1,6 +1,6 @@
 {
   "name": "automated-rec-release-b-1",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "automated-rec-release-c": "1.0.4"
+    "automated-rec-release-c": "1.0.7"
   }
 }
