@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "automated-rec-release-c": "1.0.4"
+    "automated-rec-release-c": "1.0.4-LIT-12345-1"
   }
 }
